@@ -1,0 +1,1 @@
+export default function NotFound(){return <main className="section route-not-found"><h1>Esta página não foi encontrada.</h1><p>Pode voltar à página inicial ou explorar os produtos da Solnatura.</p><a href="/" className="primary">Voltar ao início</a><a href="/loja" className="outline">Ver produtos</a></main>}
